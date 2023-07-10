@@ -217,7 +217,7 @@
                         }
                     },
                     "uberAgentVariableContent": {
-                        "pattern": "(?<=\\<).+?(?=>)",
+                        "pattern": "(?<=\\<).+?(?=\\>)",
                         "style": {
                             "color": "${semantic_highlight_color}"
                         }
